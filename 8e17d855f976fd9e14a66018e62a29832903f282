@@ -1,0 +1,9 @@
+Code-Review+1: Rich Megginson <richm@stanfordalumni.org>
+Code-Review+1: Javier Peña <jpena@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Verified+1: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Tue, 21 Apr 2015 17:13:00 +0200
+Reviewed-on: https://review.gerrithub.io/230735
+Project: openstack-packages/python-openstackclient
+Branch: refs/heads/f20-master
