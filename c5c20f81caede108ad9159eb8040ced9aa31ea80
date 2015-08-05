@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Lukáš Bezdička <lbezdick@redhat.com>
+Submitted-by: Lukáš Bezdička <lbezdick@redhat.com>
+Submitted-at: Wed, 05 Aug 2015 14:07:31 +0200
+Reviewed-on: https://review.gerrithub.io/242227
+Project: openstack-packages/python-openstackclient
+Branch: refs/heads/rpm-master
