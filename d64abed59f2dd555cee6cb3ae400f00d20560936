@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fab399f4_c047521c",
+        "filename": "python-openstackclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-10-05T12:25:48Z",
+      "side": 1,
+      "message": "this should be XXX for Delorean, I think this is the cause for the CI failure.",
+      "revId": "d64abed59f2dd555cee6cb3ae400f00d20560936",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fab399f4_e05456cc",
+        "filename": "python-openstackclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-10-05T12:25:48Z",
+      "side": 1,
+      "message": "ditto",
+      "range": {
+        "startLine": 3,
+        "startChar": 26,
+        "endLine": 3,
+        "endChar": 27
+      },
+      "revId": "d64abed59f2dd555cee6cb3ae400f00d20560936",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fab399f4_00522add",
+        "filename": "python-openstackclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-10-05T12:25:48Z",
+      "side": 1,
+      "message": "We should not have changelog in Delorean packages",
+      "range": {
+        "startLine": 106,
+        "startChar": 6,
+        "endLine": 106,
+        "endChar": 9
+      },
+      "revId": "d64abed59f2dd555cee6cb3ae400f00d20560936",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
