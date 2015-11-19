@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Javier Peña <jpena@redhat.com>
+Submitted-by: Javier Peña <jpena@redhat.com>
+Submitted-at: Thu, 19 Nov 2015 12:22:40 +0100
+Reviewed-on: https://review.gerrithub.io/252578
+Project: openstack-packages/python-openstackclient
+Branch: refs/heads/rpm-master
