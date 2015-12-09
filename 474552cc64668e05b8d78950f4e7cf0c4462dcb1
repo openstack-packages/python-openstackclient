@@ -1,0 +1,8 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: David Moreau Simard <dms@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Wed, 09 Dec 2015 20:58:54 +0100
+Reviewed-on: https://review.gerrithub.io/254667
+Project: openstack-packages/python-openstackclient
+Branch: refs/heads/rpm-master
